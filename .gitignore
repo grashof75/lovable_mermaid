@@ -35,3 +35,7 @@ github-sync/SCREENSHOT/
 *.png
 *.gif
 *.jpeg
+
+# Build archives
+*.tar.gz
+*.zip
