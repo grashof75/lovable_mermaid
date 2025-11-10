@@ -39,3 +39,6 @@ github-sync/SCREENSHOT/
 # Build archives
 *.tar.gz
 *.zip
+
+# Cloned repositories for exploration
+awesome-llm-apps/
