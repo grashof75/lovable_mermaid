@@ -36,6 +36,12 @@ supabase/.temp
 # Screenshot folder for Claude Code debugging - not to be committed
 github-sync/SCREENSHOT/
 **/SCREENSHOT/
+# Allow screenshots in .claude/SCREENSHOT/ for documentation
+!.claude/SCREENSHOT/
+!.claude/SCREENSHOT/*.jpg
+!.claude/SCREENSHOT/*.png
+!.claude/SCREENSHOT/*.gif
+!.claude/SCREENSHOT/*.jpeg
 *.jpg
 *.png
 *.gif
